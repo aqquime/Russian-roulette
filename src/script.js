@@ -1,0 +1,1 @@
+let form = new FormData(document.querySelector("form"))

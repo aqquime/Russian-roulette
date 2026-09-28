@@ -1,0 +1,15 @@
+:root {
+  --main-bg-gradient: linear-gradient(180deg, #87CEEB 0%, #4A90D9 100%);
+
+  --glass: rgba(255, 255, 255, 0.35);
+  --glass-hover: rgba(255, 255, 255, 0.5);
+  --glass-border: rgba(255, 255, 255, 0.6);
+
+  --accent: #00B4D8;
+  --accent-hover: #0096C7;
+
+  --text: #0B3D6B;
+  --text-inverse: #FFFFFF;
+
+  --shadow: 0 8px 24px rgba(11, 61, 107, 0.2);
+}
