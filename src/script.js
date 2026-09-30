@@ -26,3 +26,12 @@ class Game {
         }
     }
 }
+
+document.querySelector("form").addEventListener("submit", (e) =>{
+    e.preventDefault()
+
+    const game = new Game(Number(document.querySelector("input").value))
+
+    
+})
+
